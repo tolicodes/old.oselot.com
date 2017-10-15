@@ -1,0 +1,17 @@
+[18-Oct-2015 09:52:09 UTC] PHP Fatal error:  Call to a member function check_capabilities() on a non-object in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/class-wp-customize-control.php on line 283
+[18-Oct-2015 10:23:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[18-Oct-2015 10:24:26 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:07:19 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:08:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:09:01 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:11:00 UTC] PHP Parse error:  syntax error, unexpected ''Add ' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-content/themes/oselot/functions.php on line 1147
+[26-Oct-2015 04:11:12 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:12:33 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:14:48 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:15:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[26-Oct-2015 04:17:02 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-includes/theme.php on line 842
+[07-Nov-2015 13:48:15 UTC] PHP Fatal error:  Call to undefined function the_content_limit() in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-content/themes/oselot/blog.php on line 83
+[07-Nov-2015 13:51:49 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING) in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-content/themes/oselot/blog.php on line 74
+[07-Nov-2015 13:51:51 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING) in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-content/themes/oselot/blog.php on line 74
+[07-Nov-2015 13:56:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-content/themes/oselot/blog.php on line 74
+[07-Nov-2015 13:56:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/saabjee/public_html/artnagar.com/wip/oselot/wp-content/themes/oselot/blog.php on line 74
